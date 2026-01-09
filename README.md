@@ -51,7 +51,7 @@ This tool helps researchers and veterinarians measure colon length accurately fr
 ### Step 1: Download the Code
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/siusiubeom/colon_length_calculator.git
 cd colon_length
 git submodule update --init --recursive
 ```
