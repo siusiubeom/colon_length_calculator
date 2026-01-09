@@ -114,6 +114,8 @@ python no_sam.py --image your_image.jpg
 2. ⌨️ Enter the real distance between those points (in millimeters)
 3. ✅ Get your measurement!
 
+ASIDE FOR QUICK CHECKS, NO USAGE OF THIS IS RECOMMENDED
+
 #### Recommended Usage (Higher Accuracy)
 
 ```bash
