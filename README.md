@@ -155,6 +155,9 @@ You'll click **exactly 4 points** in this order:
 3. 🔵 Start of the colon (cecum side)
 4. 🔴 End of the colon (rectum side)
 
+<img width="1243" height="1431" alt="image" src="https://github.com/user-attachments/assets/ac8565f6-0af1-45c2-8971-3a8cd0ac3609" />
+
+
 > 💡 **Tip:** The distance in `--known-mm` is the real-world distance between your two ruler points
 
 #### With Debug Visualization
@@ -162,6 +165,9 @@ You'll click **exactly 4 points** in this order:
 ```bash
 python sam.py --image your_image.jpg --known-mm 100 --checkpoint checkpoints/sam_vit_b_01ec64.pth --debug
 ```
+
+<img width="2104" height="772" alt="image" src="https://github.com/user-attachments/assets/3f9369c9-592e-45c0-a8b5-f867ac6374c4" />
+
 
 Shows you a visual breakdown of the segmentation and measurement process.
 
